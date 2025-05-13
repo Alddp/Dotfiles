@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.12.0
+#@/tick	2
+#@/user_id	f2deb88a-169a-4d3d-8547-82fab4e1fea6
+cheng du 	程度	c=1 d=1 t=2
+ru he 	如何	c=1 d=1 t=2
