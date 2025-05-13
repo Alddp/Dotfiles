@@ -226,6 +226,7 @@ alias wezterm 'env -u WAYLAND_DISPLAY wezterm'
 
 alias nv 'nvim'
 alias conda 'micromamba'
+alias yadg='yadm enter lazygit'
 
 set EDITOR nvim
 
